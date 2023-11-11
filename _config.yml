@@ -3,14 +3,14 @@ minimal_mistakes_skin    : "drc" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Design Research Collective"
+title                    : "Daniel Winker"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : # "Your Name"
 description              : # "An amazing website."
-url                      : # "https://mccomblab.github.io"
+url                      : # "https://d-winker.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "cmudrc/cmudrc.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "D-Winker/D-Winker.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/DRC-Horizontal-Full.jpg"
 masthead_title           : " "# overrides the website title displayed in the masthead, use " " for no title
@@ -22,11 +22,6 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -65,11 +60,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : cmudrc
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : D_Winker
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -88,52 +79,31 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris McComb"
+  name             : "Daniel Winker"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I'm an electrical engineer who likes to make things."
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:ask-drc@andrew.cmu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "D-Winker.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/cmudrc"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "https://twitter.com/D_Winker"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://github.com/D-Winker"
 
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ask-drc@andrew.cmu.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/cmudrc
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://twitter.com/D_Winker
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/cmudrc/
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://github.com/D-Winker/
 
 
 # Reading Files
@@ -274,31 +244,5 @@ defaults:
       comments: # true
       share: true
       related: true
-publications:
-  journals:
-    - "Journal of Mechanical Design"
-    - "Design Studies"
-    - "Engineering Structures"
-    - "Data in Brief"
-    - "Team Performance Management"
-    - "Design Science"
-    - "Journal of Computing and Information Science in Engineering"
-    - "Computational Materials Science"
-    - "Decision Support Systems"
-    - "Stats"
-    - "SN Computer Science"
-    - "Additive Manufacturing"
-    - "Artificial Intelligence for Engineering Design, Analysis and Manufacturing"
-    - "Computational Material Science"
-    - "Development Engineering"
-    - "3D Printing and Additive Manufacturing"
-    - "Rapid Prototyping Journal"
-    - "Issues in Science and Technology"
-    - "Frontiers in Artificial Intelligence"
-    - "Journal of Marine Science and Engineering"
-    - "Cold Regions Science and Technology"
-    - "AI EDAM"
-    - "Journal of Engineering Design"
-    - "Journal of Engineering Education"
 atom_feed:
   hide: true
