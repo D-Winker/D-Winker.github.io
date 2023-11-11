@@ -10,17 +10,15 @@ header:
       url: "https://cmudrc.github.io/team/"
     - label: "<i class=\"fas fa-user-plus\"></i>   Join Our Team"
       url: "mailto:ccm@cmu.edu?subject=Interested in Joining the Design Research Collective"
-    - label: "<i class=\"fas fa-book-reader\"></i>   Read Our Work"
-      url: "https://cmudrc.github.io/publications/"
   caption: "[**Mika Baumeister**](https://unsplash.com/@mbaumi) on [*Unsplash*](https://unsplash.com)"
 research_intro:
-  - title: Research Areas
-  - excerpt: 'In the Design Research Collective, we explore research at the intersection of engineering design, psychology, and computer science to create superpowers for designers, engineers, and problem-solvers.'
+  - title: Projects
+  - excerpt: 'Here are all of my projects, old, new, completed, and ongoing.'
 research_areas:
-  - image_path: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
-    title: "People Doing Design"
-    excerpt: "Humans make things happen. We study individuals and teams as they create new products and systems."
-    image_caption: "[**Marvin Meyer**](https://unsplash.com/@marvelous) on [*Unsplash*](https://unsplash.com)"
+  - image_path: "https://cdn-learn.adafruit.com/guides/cropped_images/000/002/983/medium640/hero-printers-crop.jpg?1587498704"
+    title: "Thermal & Depth Camera"
+    excerpt: "I augmented Adafruit's 32x24 thermal camera project with an 8x8 depth sensor, and added a few features to the code - CSV recording, 2x and 4x interpolation, moving averaging, and more."
+    image_caption: ""
   - image_path: "https://images.unsplash.com/photo-1581094651181-35942459ef62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     title: "AI/ML Supporting Design"
     excerpt: "By building ML systems in response to human needs, we can give problem solvers computational superpowers."
