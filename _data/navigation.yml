@@ -1,9 +1,5 @@
 main:
-  - title: "Home"
+  - title: "Projects"
     url: /
-  - title: "Team"
-    url: /team/
-  - title: "Publications"
-    url: /publications/
-  - title: "Tools & Data"
-    url: /tools-and-data/
+  - title: "Bio"
+    url: /bio/
