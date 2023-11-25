@@ -20,8 +20,8 @@ research_areas:
     image_caption: "Image from Adafruit"
   - image_path: "assets/projects/slash_a-arm.png"
     title: "OpenSCAD Designs"
-    excerpt: "[I love OpenSCAD! Here are some things I designed in it.](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)"
-    image_caption: "[**A replacement Traxxas Slash A-Arm**](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)"
+    excerpt: "[OpenSCAD is a script-based 3D design tool. I love it! Here are some things I designed in OpenSCAD.](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)"
+    image_caption: "[**Replacement Traxxas Slash A-Arm**](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)"
 application_intro:
   - title: Application Domains
   - excerpt: 'Across these research areas, we make fundamental advances in some important application domains. Here are a few of those.'
