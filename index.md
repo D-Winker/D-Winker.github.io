@@ -19,9 +19,9 @@ research_areas:
     excerpt: "I augmented Adafruit's 32x24 thermal camera project with an 8x8 depth sensor, and added a few features to the code - CSV recording, 2x and 4x interpolation, moving averaging, and more."
     image_caption: "Image from Adafruit"
   - image_path: "assets/projects/slash_a-arm.png"
-    title: "OpenSCAD Designs"
-    excerpt: "I love OpenSCAD! Here are some things I designed in it."
-    image_caption: "[**OpenSCAD Designs**](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)"
+    title: "[OpenSCAD Designs](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)"
+    excerpt: "[I love OpenSCAD! Here are some things I designed in it.](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)"
+    image_caption: "[**OpenSCAD render of a replacement Traxxas Slash A-Arm**](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)"
 application_intro:
   - title: Application Domains
   - excerpt: 'Across these research areas, we make fundamental advances in some important application domains. Here are a few of those.'
