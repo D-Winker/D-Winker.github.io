@@ -5,13 +5,6 @@
   headshot: "https://cmccomb.com/assets/images/headshot_optimized_square.jpg"
   email: "ccm@cmu.edu"
   alum: false
-
-- first: Jiangce
-  last: Chen
-  role: Postdoc Researcher
-  alum: false
-  email: "jiangcec@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/chen.jpeg"
   
 - first: Akash
   last: Agrawal
