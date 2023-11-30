@@ -14,14 +14,15 @@ research_areas:
     title: "Sudoku Solver"
     excerpt: "Two different ways to solve a Sudoku."
     image_caption: "**Example Sudoku from Wikimedia**"
-  - image_path: "https://cdn-learn.adafruit.com/guides/cropped_images/000/002/983/medium640/hero-printers-crop.jpg?1587498704"
+  - url: "https://github.com/D-Winker/Pybadge_Thermal_Depth_Camera"
+    image_path: "https://cdn-learn.adafruit.com/guides/cropped_images/000/002/983/medium640/hero-printers-crop.jpg?1587498704"
     title: "Thermal & Depth Camera"
     excerpt: "I augmented Adafruit's 32x24 thermal camera project with an 8x8 depth sensor, and added a few features to the code - CSV recording, 2x and 4x interpolation, moving averaging, and more."
     image_caption: "Image from Adafruit" 
   - url: "https://github.com/D-Winker/OpenSCAD_Designs/tree/main"
     image_path: "assets/projects/slash_a-arm.png"
     title: "OpenSCAD Designs"
-    excerpt: "[OpenSCAD is a script-based 3D design tool. I love it! Here are some things I designed in OpenSCAD.](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)"
+    excerpt: "OpenSCAD is a script-based 3D design tool. I love it! Here are some things I designed in OpenSCAD."
     image_caption: "[**Replacement Traxxas Slash A-Arm**](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)"
 application_intro:
   - title: Application Domains
