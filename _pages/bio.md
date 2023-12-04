@@ -8,4 +8,4 @@ header:
   caption: "[**Hans-Peter Gauster**](https://unsplash.com/@sloppyperfectionist) on [*Unsplash*](https://unsplash.com)"
 ---
 
-{% include boi.html%}
+{% include bio.html%}
