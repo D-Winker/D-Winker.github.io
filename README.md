@@ -9,3 +9,4 @@ To Do
 - Uploade some more projects (I have more, right?)
 - Get rid of the test project
 - Replace the WIP message
+- Scrub out any remaining info that isn't my own
