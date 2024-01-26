@@ -7,6 +7,6 @@ To Do
 - ~~Fix the awkward line spacing on the bio page~~
 - _Complete some projects_
 - Uploade some more projects (I have more, right?)
-- Get rid of the test project
+- ~~Get rid of the test project~~
 - Replace the WIP message
 - Scrub out any remaining info that isn't my own
