@@ -24,11 +24,6 @@ projects:
     title: "OpenSCAD Designs"
     excerpt: "OpenSCAD is a script-based 3D design tool. I love it! Here are some things I designed in OpenSCAD."
     image_caption: "[**Replacement Traxxas Slash A-Arm**](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)" 
-  - url: "https://github.com/D-Winker/OpenSCAD_Designs/tree/main"
-    image_path: "assets/projects/slash_a-arm.png"
-    title: "Test"
-    excerpt: "Testing"
-    image_caption: "[**Replacement Traxxas Slash A-Arm**](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)"
 
 ---
 
