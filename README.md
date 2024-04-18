@@ -3,6 +3,7 @@ Uses the [minimal mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyl
 
 To Do
 - Replace banner photos
+- Replace stand-in project photos
 - ~~Make headshot on the bio page larger~~
 - ~~Fix the awkward line spacing on the bio page~~
 - _Complete some projects_
