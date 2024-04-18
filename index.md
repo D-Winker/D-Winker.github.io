@@ -10,7 +10,8 @@ projects_intro:
   - title: Projects THIS PAGE IS A WORK IN PROGRESS! I'm modifying the CMU page into my own...
   - excerpt: 'Here are all of my projects, old, new, completed, and ongoing.'
 projects:
-  - image_path: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg/1200px-Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg.png"
+  - url: "https://github.com/D-Winker/SudokuSolver"
+    image_path: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg/1200px-Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg.png"
     title: "Sudoku Solver"
     excerpt: "Two different ways to solve a Sudoku."
     image_caption: "**Example Sudoku from Wikimedia**"
