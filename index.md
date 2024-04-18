@@ -13,7 +13,7 @@ projects:
   - url: "https://github.com/D-Winker/SudokuSolver"
     image_path: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg/1200px-Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg.png"
     title: "Sudoku Solver"
-    excerpt: "Two different ways to solve a Sudoku."
+    excerpt: "I wrote six different Sudoku solvers; two of them work!"
     image_caption: "**Example Sudoku from Wikimedia**"
   - url: "https://github.com/D-Winker/Pybadge_Thermal_Depth_Camera"
     image_path: "https://cdn-learn.adafruit.com/guides/cropped_images/000/002/983/medium640/hero-printers-crop.jpg?1587498704"
