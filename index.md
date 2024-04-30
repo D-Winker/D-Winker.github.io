@@ -13,7 +13,7 @@ projects:
   - url: "https://github.com/D-Winker/SudokuSolver"
     image_path: "assets/projects/ExampleSudoku_Solver1.png"
     title: "Sudoku Solver"
-    excerpt: "I wrote six different Sudoku solvers. Two of them work!"
+    excerpt: "I wrote six different Sudoku solvers. Four of them work!"
     image_caption: "**Example Sudoku, initialized for solving**"
   - url: "https://github.com/D-Winker/Pybadge_Thermal_Depth_Camera"
     image_path: "https://cdn-learn.adafruit.com/guides/cropped_images/000/002/983/medium640/hero-printers-crop.jpg?1587498704"
