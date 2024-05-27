@@ -25,10 +25,15 @@ projects:
     title: "OpenSCAD Designs"
     excerpt: "OpenSCAD is a script-based 3D design tool. I love it! Here are some things I designed in OpenSCAD."
     image_caption: "[**Replacement Traxxas Slash A-Arm**](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)"
+  - url: "https://github.com/D-Winker/JoystickMouse"
+    image_path: "assets/projects/CompletedJoystickMouse.jpg"
+    title: "Joystick Mouse"
+    excerpt: "I modified an old serial-interface joystick to be usable as a USB mouse. An Arduino dev board reads the potentiometers and buttons, then relays the programmed commands to the computer: mouse movement, right, left, and middle click, alt+tab, ctrl+tab, and ctrl+shift+tab."
+    image_caption: "[**The augmented joystick**](https://github.com/D-Winker/JoystickMouse)"
   - url: "https://github.com/D-Winker/TSL2591_AutoAdjust/tree/master"
     image_path: "assets/projects/BrightnessMeasurements.png"
     title: "Lux Meter"
-    excerpt: "This project adds automatic gain control to Adafruit's code for the TSL2591 light sensor."
+    excerpt: "I added automatic gain control to Adafruit's example code for the TSL2591 light sensor."
     image_caption: "[**24 hours of lux data**](https://github.com/D-Winker/TSL2591_AutoAdjust/tree/master)"
 
 ---
