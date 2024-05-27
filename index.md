@@ -19,12 +19,17 @@ projects:
     image_path: "assets/projects/ThermalVisualization-2.png"
     title: "Thermal & Depth Camera"
     excerpt: "I augmented Adafruit's 32x24 thermal camera project with an 8x8 depth sensor, and added a few features to the code - CSV recording, 2x and 4x interpolation, moving averaging, and more."
-    image_caption: "[**A 3D thermal picture of me.**](https://github.com/D-Winker/Pybadge_Thermal_Depth_Camera)" 
+    image_caption: "[**A 3D thermal picture of me**](https://github.com/D-Winker/Pybadge_Thermal_Depth_Camera)" 
   - url: "https://github.com/D-Winker/OpenSCAD_Designs/tree/main"
     image_path: "assets/projects/slash_a-arm.png"
     title: "OpenSCAD Designs"
     excerpt: "OpenSCAD is a script-based 3D design tool. I love it! Here are some things I designed in OpenSCAD."
-    image_caption: "[**Replacement Traxxas Slash A-Arm**](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)" 
+    image_caption: "[**Replacement Traxxas Slash A-Arm**](https://github.com/D-Winker/OpenSCAD_Designs/tree/main)"
+  - url: "https://github.com/D-Winker/TSL2591_AutoAdjust/tree/master"
+    image_path: "assets/projects/BrightnessMeasurements.png"
+    title: "Lux Meter"
+    excerpt: "This project adds automatic gain control to Adafruit's code for the TSL2591 light sensor."
+    image_caption: "[**24 hours of lux data**](https://github.com/D-Winker/TSL2591_AutoAdjust/tree/master)"
 
 ---
 
