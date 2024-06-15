@@ -19,7 +19,7 @@ projects:
     image_path: "assets/projects/ThermalVisualization-2.png"
     title: "Thermal & Depth Camera"
     excerpt: "I augmented Adafruit's 32x24 thermal camera project with an 8x8 depth sensor, and added a few features to the code - CSV recording, 2x and 4x interpolation, moving averaging, and more."
-    image_caption: "[**A 3D thermal picture of me**](https://github.com/D-Winker/Pybadge_Thermal_Depth_Camera)" 
+    image_caption: "[**A 3D thermal picture of myself**](https://github.com/D-Winker/Pybadge_Thermal_Depth_Camera)" 
   - url: "https://github.com/D-Winker/OpenSCAD_Designs/tree/main"
     image_path: "assets/projects/slash_a-arm.png"
     title: "OpenSCAD Designs"
@@ -40,6 +40,11 @@ projects:
     title: "Joystick Mouse"
     excerpt: "I modified an old serial-interface joystick to be usable as a USB mouse. An Arduino dev board reads the potentiometers and buttons, then relays the programmed commands to the computer: mouse movement, right, left, and middle click, alt+tab, ctrl+tab, and ctrl+shift+tab."
     image_caption: "[**The augmented joystick**](https://github.com/D-Winker/JoystickMouse)"
+  - url: "https://github.com/D-Winker/Trace"
+    image_path: "assets/projects/TraceDemo.png"
+    title: "Trace"
+    excerpt: "A multi-dimensional plotter intended for use with real-time, real-world data sources."
+    image_caption: "[**A demo plot**](https://github.com/D-Winker/Trace)"
 
 ---
 
