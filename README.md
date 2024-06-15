@@ -7,10 +7,10 @@ To Do
 - ~~Make headshot on the bio page larger~~
 - ~~Fix the awkward line spacing on the bio page~~
 - ~~Complete some projects~~
-- Add my other projects that are already on github
+- ~~Add my other projects that are already on github~~
 - ~~Add pictures to TSL2591 Auto Adjust~~
 - ~~Add pictures to JoystickMouse~~
-- ~~Add pictures to Audio-Visual-MSGEQ7
+- ~~Add pictures to Audio-Visual-MSGEQ7~~
 - ~~Add pictures to Trace~~
 - ~~Get rid of the test project~~
 - Replace the WIP message
