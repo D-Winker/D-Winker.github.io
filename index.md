@@ -45,6 +45,21 @@ projects:
     title: "Trace"
     excerpt: "A multi-dimensional plotter intended for use with real-time, real-world data sources."
     image_caption: "[**A demo plot**](https://github.com/D-Winker/Trace)"
+  - url: "https://www.instructables.com/Cardboard-Couch-1/"
+    image_path: "assets/projects/CardboardCouch.jpg"
+    title: "Cardboard Couch"
+    excerpt: "I bought a bed from IKEA and thought it would be funny to make more furniture from the packaging. (Supports up to 3 adults)."
+    image_caption: "[**The cardboard couch**](https://www.instructables.com/Cardboard-Couch-1/)"
+  - url: "https://www.instructables.com/Fleece-Scarf/"
+    image_path: "assets/projects/FleeceScarf.jpg"
+    title: "Fleece Scarf"
+    excerpt: "A scarf woven from tubes made of fleece."
+    image_caption: "[**The scarf**](https://www.instructables.com/Fleece-Scarf/)"
+  - url: "https://www.instructables.com/DIY-Oyule-Lamp/"
+    image_path: "assets/projects/OyuleLamp.jpg"
+    title: "Replica Oil Lamp"
+    excerpt: "This is a DIY recreation of the 'Oyule' lamp, created by artist Sergio Silva."
+    image_caption: "[****](https://www.instructables.com/DIY-Oyule-Lamp/)"
 
 ---
 
