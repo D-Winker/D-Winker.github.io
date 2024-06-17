@@ -60,6 +60,11 @@ projects:
     title: "Replica Oil Lamp"
     excerpt: "This is a DIY recreation of the 'Oyule' lamp, created by artist Sergio Silva."
     image_caption: "[****](https://www.instructables.com/DIY-Oyule-Lamp/)"
+  - url: "https://www.instructables.com/How-To-Make-A-CRT-TV-Into-an-Oscilloscope/"
+    image_path: "assets/projects/MusicVisualizer.png"
+    title: "Music Visualizer"
+    excerpt: "I built a music visualizer by driving one of the deflection coils in a CRT with an audio source."
+    image_caption: "[****](https://www.instructables.com/How-To-Make-A-CRT-TV-Into-an-Oscilloscope/)"
 
 ---
 
