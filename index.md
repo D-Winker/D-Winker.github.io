@@ -6,9 +6,6 @@ header:
   overlay_filter: linear-gradient(rgba(0, 0, 0, 0.5), rgba(234, 133, 52, 0.5))
   overlay_image: "https://i.postimg.cc/W3jtH3s0/Parts-Shelf2.jpg"
   caption: "Future projects waiting on my parts shelf"
-projects_intro:
-  - title: Projects THIS PAGE IS A WORK IN PROGRESS! I'm modifying the CMU page into my own...
-  - excerpt: 'Here are all of my projects, old, new, completed, and ongoing.'
 projects:
   - url: "https://github.com/D-Winker/SudokuSolver"
     image_path: "assets/projects/ExampleSudoku_Solver1.png"
