@@ -4,7 +4,7 @@ classes: wide
 permalink: /
 header:
   overlay_filter: linear-gradient(rgba(0, 0, 0, 0.5), rgba(234, 133, 52, 0.5))
-  overlay_image: "https://i.postimg.cc/Nj5X650M/Parts-Shelf.jpg"
+  overlay_image: "https://i.postimg.cc/W3jtH3s0/Parts-Shelf2.jpg"
   caption: "Future projects waiting on my parts shelf"
 projects_intro:
   - title: Projects THIS PAGE IS A WORK IN PROGRESS! I'm modifying the CMU page into my own...
