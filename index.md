@@ -4,8 +4,11 @@ classes: wide
 permalink: /
 header:
   overlay_filter: linear-gradient(rgba(0, 0, 0, 0.), rgba(234, 133, 52, 0.4))
-  overlay_image: "assets/projects/ExampleSudoku_Solver1.png"
+  overlay_image: "assets/header-images/PartsShelf.jpg"
   caption: "Future projects waiting on my parts shelf"
+projects_intro:
+  - title: These are my personal projects
+  - excerpt: 'Old, new, completed, and ongoing.'
 projects:
   - url: "https://github.com/D-Winker/SudokuSolver"
     image_path: "assets/projects/ExampleSudoku_Solver1.png"
