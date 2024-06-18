@@ -4,7 +4,7 @@ classes: wide
 permalink: /
 header:
   overlay_filter: linear-gradient(rgba(0, 0, 0, 0.), rgba(234, 133, 52, 0.4))
-  overlay_image: "assets/header-images/PartsShelf.jpg"
+  overlay_image: "assets/projects/ExampleSudoku_Solver1.png"
   caption: "Future projects waiting on my parts shelf"
 projects:
   - url: "https://github.com/D-Winker/SudokuSolver"
