@@ -2,7 +2,7 @@
 Uses the [minimal mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme, which I found through [Carnegie Mellon's McComb Lab website](https://github.com/cmudrc/cmudrc.github.io), which I used as the basis for my own.  
 
 To Do
-- Replace banner photos
+- ~~Replace banner photos~~
 - ~~Replace stand-in project photos~~
 - ~~Make headshot on the bio page larger~~
 - ~~Fix the awkward line spacing on the bio page~~
