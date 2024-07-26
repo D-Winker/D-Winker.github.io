@@ -7,6 +7,11 @@ header:
   overlay_image: "assets/header-images/PartsShelf.jpg"
   caption: "Future projects waiting on my parts shelf"
 projects:
+  - url: "https://github.com/D-Winker/PixelSorting"
+    image_path: "assets/projects/PixelSorting.png"
+    title: "Pixel Sorting"
+    excerpt: "I wrote a script to apply a pixel sorting effect to images. There's a lot more to explore here!"
+    image_caption: "[**A selfie with some horizonal sorting**](https://github.com/D-Winker/PixelSorting)"
   - url: "https://github.com/D-Winker/SudokuSolver"
     image_path: "assets/projects/ExampleSudoku_Solver1.png"
     title: "Sudoku Solver"
