@@ -59,8 +59,6 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : D_Winker
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -88,9 +86,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "D-Winker.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/D_Winker"
+    - label: "Bluesky"
+      icon: "fas fa-fw fa-cloud" # Use a generic or suitable Font Awesome icon
+      url: https://bsky.app/profile/d-winker.bsky.social
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/D-Winker"
@@ -98,9 +96,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/D_Winker
+    - label: "Bluesky"
+      icon: "fas fa-fw fa-cloud" # Use a generic or suitable Font Awesome icon
+      url: https://bsky.app/profile/d-winker.bsky.social
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/D-Winker/
